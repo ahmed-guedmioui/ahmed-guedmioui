@@ -1,8 +1,8 @@
 ## Advenced native Android developer
 
-🛠️ Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy)</p>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="20" width="30" /> My youtube channel with 7k subscribers: [Ahmed Guedmioui's Channel](https://www.youtube.com/@ahmed_guedmioui)</p>
-📩 My email: **hamadagdm@gmail.com**
+🛠️ Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy)</b>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="20" width="30" /> My youtube channel with 7k subscribers: [Ahmed Guedmioui's Channel](https://www.youtube.com/@ahmed_guedmioui)</b>
+📩 My email: **hamadagdm@gmail.com**</b>
 
 <h3 align="left">My Secial Media Accounts:</h3>
 <p align="left">
