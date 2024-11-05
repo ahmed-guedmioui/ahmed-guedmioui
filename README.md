@@ -1,8 +1,8 @@
 ## Advenced native Android developer
 
-- 🛠️ Check out my latest multi-module project [Shopy](https://github.com/ahmed-guedmioui/Shopy)
+- 📲 Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy)
 
-- 📫 My email **hamadagdm@gmail.com**
+- 📫 My email: **hamadagdm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
