@@ -1,10 +1,8 @@
 ## Native Android developer
 
-<img src="https://github.com/user-attachments/assets/e8296988-ee67-4f78-9b95-2a7a21f43225" alt="ahmed_guedmioui" height="130" width="170" />
-
-- Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy) 🛠️<br>
-- My youtube channel with 7k subscribers: [Ahmed Guedmioui's Channel](https://www.youtube.com/@ahmed_guedmioui) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="20" width="30" /><br>
-- My email: **hamadagdm@gmail.com** 📩<br>
+![[Your Image Name]](https://github.com/user-attachments/assets/e8296988-ee67-4f78-9b95-2a7a21f43225)  * Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy) ️<br>
+* My youtube channel with 7k subscribers: [Ahmed Guedmioui's Channel](https://www.youtube.com/@ahmed_guedmioui)  [![Youtube Icon](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)](https://www.youtube.com/@ahmed_guedmioui)<br>
+* My email: **hamadagdm@gmail.com** <br>
 
 <h3 align="left">My Secial Media Accounts:</h3>
 <p align="left">
