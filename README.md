@@ -1,10 +1,10 @@
 ## Advenced native Android developer
 
 - 📲 Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy)
-
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="20" width="30" /> My youtube channel with 7k subscribers: [Shopy]([https://github.com/ahmed-guedmioui/Shopy](https://www.youtube.com/@ahmed_guedmioui))
 - 📫 My email: **hamadagdm@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Secial Media Accounts:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-guedmioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-guedmioui" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_guedmioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_guedmioui" height="30" width="40" /></a>
