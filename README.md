@@ -7,9 +7,9 @@
 
 <h3 align="left">My Secial Media Accounts:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmed-guedmioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-guedmioui" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-guedmioui-280859295/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-guedmioui" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed_guedmioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_guedmioui" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahmed_guedmioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="32" width="42" /></a>
+<a href="https://www.youtube.com/@ahmed_guedmioui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="32" width="42" /></a>
 </p>
 
 
