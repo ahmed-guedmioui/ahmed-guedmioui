@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-guedmioui&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-guedmioui" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-guedmioui" alt="ahmed-guedmioui" /></a> </p>
+## Hi there 👋 Im am an advenced native Android developer
 
 - 🛠️ Check out my latest multi-module project [Shopy](https://github.com/ahmed-guedmioui/Shopy)
 
