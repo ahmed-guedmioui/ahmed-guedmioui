@@ -1,6 +1,4 @@
 ## Advenced native Android developer
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-guedmioui&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-guedmioui" /> </p>
-
 
 -  🛠️ Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy)
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="20" width="30" /> My youtube channel with 7k subscribers: [Ahmed Guedmioui's Channel](https://www.youtube.com/@ahmed_guedmioui)
