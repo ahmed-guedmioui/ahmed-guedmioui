@@ -1,4 +1,4 @@
-## Advenced native Android developer
+## Native Android developer
 
 - Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy) 🛠️<br>
 - My youtube channel with 7k subscribers: [Ahmed Guedmioui's Channel](https://www.youtube.com/@ahmed_guedmioui) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="20" width="30" /><br>
