@@ -1,6 +1,6 @@
 ## Native Android developer
 
-- Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy) <img align="center" src="https://ih1.redbubble.net/image.3034854705.5867/raf,360x360,075,t,fafafa:ca443f4786.u2.jpg" alt="ahmed_guedmioui" height="20" width="30" /><br>
+- Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy) <img align="center" src="https://ih1.redbubble.net/image.3034854705.5867/raf,360x360,075,t,fafafa:ca443f4786.u2.jpg" alt="ahmed_guedmioui" height="22" width="22" /><br>
 - My youtube channel with 7k subscribers: [Ahmed Guedmioui's Channel](https://www.youtube.com/@ahmed_guedmioui) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="20" width="30" /><br>
 - My email: **hamadagdm@gmail.com** 📩<br>
 
