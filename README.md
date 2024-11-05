@@ -1,11 +1,9 @@
 ## Native Android developer
 
-<p align="left">
-<img src="https://www.91-cdn.com/hub/wp-content/uploads/2023/09/New-Android-logo-2023-1200x900.jpg"  alt="ahmed_guedmioui" height="50" width="80" />
 - Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy) 🛠️<br>
 - My youtube channel with 7k subscribers: [Ahmed Guedmioui's Channel](https://www.youtube.com/@ahmed_guedmioui) <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed_guedmioui" height="20" width="30" /><br>
 - My email: **hamadagdm@gmail.com** 📩<br>
-</p>
+<img src="https://www.91-cdn.com/hub/wp-content/uploads/2023/09/New-Android-logo-2023-1200x900.jpg"  alt="ahmed_guedmioui" height="50" width="80" />
 
 <h3 align="left">My Secial Media Accounts:</h3>
 <p align="left">
