@@ -1,4 +1,4 @@
-## Hi, I am Ahmed
+## Hi 👋, I am Ahmed
 
 <img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="ahmed_guedmioui" height="14" width="21"/>  Android developer sharing about my journey and learnings in Android.<br><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="ahmed_guedmioui" height="15" width="20"/>  Making videos about Android development on [YouTubes](https://www.youtube.com/@ahmed_guedmioui) with 7k subscribers.<br>
 <img align="center" src="https://github.com/user-attachments/assets/da1c0476-db23-4bd0-96cf-3b38047c3f33" alt="ahmed_guedmioui" height="18" width="18"/>  Check out my latest multi-module project [Shopy](https://github.com/ahmed-guedmioui/Shopy)<br>
