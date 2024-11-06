@@ -1,7 +1,8 @@
 ## Hi, I am Ahmed
 
+- 👩🏻‍💻 Android developer sharing about my journey and learnings in tech
 - <img align="center" src="https://github.com/user-attachments/assets/da1c0476-db23-4bd0-96cf-3b38047c3f33" alt="ahmed_guedmioui" height="18" width="18"/> Check out my latest multi-module project: [Shopy](https://github.com/ahmed-guedmioui/Shopy)<br>
-- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="ahmed_guedmioui" height="15" width="20"/> My youtube channel with 7k subscribers: [Ahmed Guedmioui's Channel](https://www.youtube.com/@ahmed_guedmioui) <br>
+- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="ahmed_guedmioui" height="15" width="20"/> Making videos about Android development on [YouTubes](https://www.youtube.com/@ahmed_guedmioui) with 7k subscribers <br>
 - ✉️ My email: **hamadagdm@gmail.com**<br>
 
 
