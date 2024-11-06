@@ -14,6 +14,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-guedmioui&theme=github_dark&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahmed-guedmioui&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
