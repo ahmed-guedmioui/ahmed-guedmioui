@@ -1,7 +1,5 @@
 ## Hi, I am Ahmed
 
-[![](https://visitcount.itsvg.in/api?id=ahmed-guedmioui&icon=0&color=3)](https://visitcount.itsvg.in)
-
 <img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="ahmed_guedmioui" height="14" width="21"/>  Android developer sharing about my journey and learnings in Android.<br><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="ahmed_guedmioui" height="15" width="20"/>  Making videos about Android development on [YouTubes](https://www.youtube.com/@ahmed_guedmioui) with 7k subscribers.<br>
 <img align="center" src="https://github.com/user-attachments/assets/da1c0476-db23-4bd0-96cf-3b38047c3f33" alt="ahmed_guedmioui" height="18" width="18"/>  Check out my latest multi-module project [Shopy](https://github.com/ahmed-guedmioui/Shopy)<br>
 <img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="ahmed_guedmioui" height="18" width="18"/>  Currently learning more advanced concepts about KMP (Kotlin Multiplatform).<br>
@@ -17,3 +15,4 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmed-guedmioui&theme=rose_pine&hide_border=false)<br/>
 
+[![](https://visitcount.itsvg.in/api?id=ahmed-guedmioui&icon=0&color=3)](https://visitcount.itsvg.in)
