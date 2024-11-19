@@ -4,7 +4,7 @@
 <img align="center" src="https://github.com/user-attachments/assets/da1c0476-db23-4bd0-96cf-3b38047c3f33" alt="ahmed_guedmioui" height="18" width="18"/>  Check out my latest multi-module project [Shopy](https://github.com/ahmed-guedmioui/Shopy)<br>
 <img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="ahmed_guedmioui" height="18" width="18"/>  Currently learning more advanced concepts about KMP (Kotlin Multiplatform).<br>
 <img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="ahmed_guedmioui" height="14" width="18"/> My email: **hamadagdm@gmail.com**<br>
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/544/544342.png" alt="ahmed_guedmioui" height="14" width="18"/> My [Portfolio](https://ahmedgire01.wixsite.com/ahmed-guedmioui-1)
+<img align="center" src="https://attic.sh/quc9mnxuyhk24ljoaw2qfmm2haq7" alt="ahmed_guedmioui" height="18" width="14"/> My [Portfolio](https://ahmedgire01.wixsite.com/ahmed-guedmioui-1)
 
 - **Programming Languages:** Kotlin - Java.
 - **Android:** Android Framework - Technical documentation - Android Studio Profiler - Error Handling - Retrofit - Ktor - Coroutines - RxJava.
