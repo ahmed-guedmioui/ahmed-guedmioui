@@ -1,19 +1,8 @@
 ## Hi 👋, I'm Ahmed
 
-<img align="center" src="https://developer.android.com/static/images/brand/android-head_flat.png" alt="ahmed_guedmioui" height="14" width="21"/>  Android developer sharing about my journey and learnings in Android.<br><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="ahmed_guedmioui" height="15" width="20"/>  Making videos about Android development on [YouTubes](https://www.youtube.com/@ahmed_guedmioui) with 7k subscribers.<br>
-<img align="center" src="https://github.com/user-attachments/assets/da1c0476-db23-4bd0-96cf-3b38047c3f33" alt="ahmed_guedmioui" height="18" width="18"/>  Check out my latest multi-module project [Shopy](https://github.com/ahmed-guedmioui/Shopy)<br>
-<img align="center" src="https://user-images.githubusercontent.com/103866722/177941491-1947c6b0-6e38-4880-8bd7-01dac36165df.png" alt="ahmed_guedmioui" height="18" width="17"/>  Currently learning more advanced concepts about KMP (Kotlin Multiplatform).<br>
-<img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="ahmed_guedmioui" height="13" width="18"/> My email: **hamadagdm@gmail.com**<br>
-<img align="center" src="https://attic.sh/quc9mnxuyhk24ljoaw2qfmm2haq7" alt="ahmed_guedmioui" height="20" width="19"/> My Portfolio: [Portfolio](https://ahmedgire01.wixsite.com/ahmed-guedmioui-1)
+### Mobile engineer:
+#### Android - Kotkin Multiplatform
 
-- **Programming Languages:** Kotlin - Java.
-- **Android:** Android Framework - Technical documentation - Android Studio Profiler - Error Handling - Retrofit - Ktor - Coroutines - RxJava.
-- **Architecture:** Clean Architecture - Multi-Module - MVI - MVVM - MVP - Dependency Injection.
-- **Testing:** Unit testing - UI tests - Test Driven Development.
-- **Database:** SQLite - RoomDB - MongoDB.
-- **Version Control:** Git, Github.
-
-![](https://github-readme-stats.vercel.app/api?username=ahmed-guedmioui&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahmed_guedmioui) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed_guedmioui) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-guedmioui-280859295) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arim.nus) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ahmed_guedmioui)
